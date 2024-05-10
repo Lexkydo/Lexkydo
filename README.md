@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h3><samp> Hi <img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Hi.gif" width="25px">, I'm Jecky "kydo" Chan<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/gandalf_parrot.gif" width="35px"> </samp></h3>
+    <h3><samp> Hi<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Hi.gif" width="25px">, I'm Jecky "kydo" Chan<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/gandalf_parrot.gif" width="35px"> </samp></h3>
     <samp>
     <p>I'm a Tech Enthusiast with Full Stack Development knowledge</p>
     <a href="https://github.com/Lexkydo/" target="_blank">
