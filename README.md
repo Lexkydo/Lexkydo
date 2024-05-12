@@ -100,7 +100,7 @@
     <h3><samp> Some Cool Stats <img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Earth.gif" width="20px"></samp></h3>
     <table>
     <td align="center" width="50%">
-      <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=169711695932030976"/>
+      <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/169711695932030976"/>
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeckydo&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225"/>
     </td>
     <td align="center" width="50%">
