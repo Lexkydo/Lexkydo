@@ -82,7 +82,7 @@
     <samp>
     <a href="https://www.youtube.com/channel/UCUx44WRdG-dDt5NFlOqhNFA">
       <img alt="kydo | YouTube" width="18px" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" /></a> &nbsp;&nbsp;
-    <a href="https://twitter.com/Lexkydoo">
+    <a href="https://twitter.com/jeckydo_o">
       <img alt="kydo | Twitter" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" /></a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/jecvky/">
       <img alt="kydo | Facebook" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" /></a> &nbsp;&nbsp;
