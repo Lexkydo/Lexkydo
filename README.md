@@ -1,23 +1,23 @@
 <body>
   <div align="center">
-    <h3><samp> Hi<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Hi.gif" width="25px">, I'm Jecky "kydo" Chan<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/gandalf_parrot.gif" width="35px"> </samp></h3>
+    <h3><samp> Hi<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Hi.gif" width="25px">, I'm Jecky "kydo" Chan<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/gandalf_parrot.gif" width="35px"> </samp></h3>
     <samp>
     <p>I'm a Tech Enthusiast with Full Stack Development knowledge</p>
-    <a href="https://github.com/Lexkydo/" target="_blank">
+    <a href="https://github.com/jeckydo/" target="_blank">
     <img height="18"
-      src="https://komarev.com/ghpvc/?username=Lexkydo&label=Profile%20views&style=flat-square" alt="Lexkydo"/>
+      src="https://komarev.com/ghpvc/?username=jeckydo&label=Profile%20views&style=flat-square" alt="jeckydo"/>
     <img height="18"
-      src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Lexkydo"/>
+      src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="jeckydo"/>
     <img height="18"
-      src="https://img.shields.io/github/followers/Lexkydo?style=social" alt="GitHub followers"/>
+      src="https://img.shields.io/github/followers/jeckydo?style=social" alt="GitHub followers"/>
     <img height="18"
-      src="https://img.shields.io/github/stars/Lexkydo?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
+      src="https://img.shields.io/github/stars/jeckydo?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     </a>
     </samp>
   </div>
   <div align="center">
     ---
-    <h3><samp> Tools and Languages<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Developer.gif" width="40px"> </samp></h3>
+    <h3><samp> Tools and Languages<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Developer.gif" width="40px"> </samp></h3>
       <samp>
         <img height="18"
           src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"> 
@@ -78,18 +78,18 @@
   <div align="center">
     <br>
     ---
-    <h3><samp> Connect with me<img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Handshake.gif" width="60px"> </samp></h3>
+    <h3><samp> Connect with me<img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Handshake.gif" width="60px"> </samp></h3>
     <samp>
     <a href="https://www.youtube.com/channel/UCUx44WRdG-dDt5NFlOqhNFA">
-      <img alt="Lexkydo | YouTube" width="18px" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" /></a> &nbsp;&nbsp;
+      <img alt="kydo | YouTube" width="18px" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" /></a> &nbsp;&nbsp;
     <a href="https://twitter.com/Lexkydoo">
-      <img alt="Lexkydo | Twitter" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" /></a> &nbsp;&nbsp;
+      <img alt="kydo | Twitter" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" /></a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/jecvky/">
-      <img alt="Lexkydo | Facebook" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" /></a> &nbsp;&nbsp;
+      <img alt="kydo | Facebook" width="18px" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" /></a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/jecvky/">
-      <img alt="Lexkydo | Instagram" width="18px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" /></a> &nbsp;&nbsp;
+      <img alt="kydo | Instagram" width="18px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" /></a> &nbsp;&nbsp;
     <a href="mailto:contact@kydo.lol">
-      <img alt="Lexkydo | Gmail" width="18px" src="https://cdn-icons-png.flaticon.com/128/888/888853.png" /></a> &nbsp;&nbsp;
+      <img alt="kydo | Gmail" width="18px" src="https://cdn-icons-png.flaticon.com/128/888/888853.png" /></a> &nbsp;&nbsp;
   </a>
   </samp>
     
@@ -97,15 +97,15 @@
   <div align="center">
     <br>
     ---
-    <h3><samp> Some Cool Stats <img src="https://github.com/Lexkydo/Lexkydo/blob/main/Assets/Earth.gif" width="20px"></samp></h3>
+    <h3><samp> Some Cool Stats <img src="https://github.com/jeckydo/jeckydo/blob/main/Assets/Earth.gif" width="20px"></samp></h3>
     <table>
     <td align="center" width="50%">
-      <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/169711695932030976"/>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lexkydo&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225"/>
+      <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=169711695932030976"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeckydo&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225"/>
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=Lexkydo&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff"/>
-      <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=Lexkydo&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10"/>
+      <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=jeckydo&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff"/>
+      <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=jeckydo&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10"/>
     </td>
     </table>
   </div>
